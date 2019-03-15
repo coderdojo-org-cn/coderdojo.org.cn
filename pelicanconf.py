@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Qin Fengling'
 AUTHOR_EMAIL = u'Fengling.Qin@gmail.com'
-SITENAME = u'CoderDojo China Organization'
+SITENAME = u'CoderDojo 中国'
 SITEURL = u'coderdojo.org.cn'
 
 PATH = 'content'
