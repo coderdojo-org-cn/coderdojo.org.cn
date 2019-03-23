@@ -20,7 +20,7 @@ make serve
 
 then you can access it through http://localhost:8000
 
-## Publish through github
+## Publish through GitHub
 ```bash
 make github
 ```
