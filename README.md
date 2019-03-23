@@ -33,3 +33,4 @@ make github
 
 ## Links
 * [Pelican docs](https://docs.getpelican.com/en/stable/)
+* [How do I install pip on macOS or OS X?](How do I install pip on macOS or OS X?)
