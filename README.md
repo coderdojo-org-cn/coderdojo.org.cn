@@ -1,6 +1,12 @@
 # coderdojo.org.cn
 CoderDojo中国
 
+## Dependencies
+Install with `sudo` or root user please.
+```
+pip install pelican markdown
+```
+
 ## Prepare source
 ```bash
 git clone https://github.com/coderdojo-org-cn/coderdojo.org.cn.git
